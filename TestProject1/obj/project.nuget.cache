@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/SDPG8ckXDZw1Gb+BKcsGFRTBh0ASWx2dUny6LyEjxHV8d52c68XpUdsJOOmwJlHzeft8RuwS3Y4U99QTgxZxg==",
+  "dgSpecHash": "zQBSXdNbKb8lndbXKO85QkLup+9WB1DbnO6cVHey6PuQMGzFHSzMT4jAxs0cIN4aNoFk4xfd9qVvuIXuMNpucw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w64856\\Desktop\\TestProject1\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\w64856\\Source\\Repos\\inzynieria\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w64856\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\w64856\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
